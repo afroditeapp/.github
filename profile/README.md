@@ -18,7 +18,7 @@ The app is under development and it is not ready for production.
 
 ## Video
 
-<https://afroditeapp.github.io/videos/basic-usage.webm>
+<https://afroditeapp.github.io/videos/basic-usage.mp4>
 
 ## Features
 
